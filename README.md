@@ -1,0 +1,1 @@
+Learn to implement a simple crawler using python, and the use of common crawling architecture to implement a high-efficiency crawler quickly.
